@@ -1,0 +1,487 @@
+[
+    {
+        "text": "What’s your partner’s favorite comfort food?",
+        "options": ["Pizza", "Ice Cream", "Mac and Cheese", "Sushi"],
+        "correct": "Pizza"
+    },
+    {
+        "text": "What’s your partner’s dream travel destination?",
+        "options": ["Paris", "Tokyo", "New York", "Bali"],
+        "correct": "Tokyo"
+    },
+    {
+        "text": "What’s your partner’s favorite movie genre?",
+        "options": ["Romance", "Action", "Comedy", "Horror"],
+        "correct": "Comedy"
+    },
+    {
+        "text": "What’s your partner’s go-to coffee order?",
+        "options": ["Latte", "Black Coffee", "Cappuccino", "Iced Coffee"],
+        "correct": "Latte"
+    },
+    {
+        "text": "What’s your partner’s favorite season?",
+        "options": ["Spring", "Summer", "Fall", "Winter"],
+        "correct": "Fall"
+    },
+    {
+        "text": "What’s your partner’s favorite way to unwind?",
+        "options": ["Reading", "Gaming", "Watching TV", "Hiking"],
+        "correct": "Reading"
+    },
+    {
+        "text": "What’s your partner’s favorite dessert?",
+        "options": ["Chocolate Cake", "Cheesecake", "Ice Cream", "Cookies"],
+        "correct": "Cheesecake"
+    },
+    {
+        "text": "What’s your partner’s favorite music genre?",
+        "options": ["Pop", "Rock", "Jazz", "Classical"],
+        "correct": "Pop"
+    },
+    {
+        "text": "What’s your partner’s ideal weekend activity?",
+        "options": ["Movie Night", "Outdoor Adventure", "Shopping", "Cooking"],
+        "correct": "Movie Night"
+    },
+    {
+        "text": "What’s your partner’s favorite color?",
+        "options": ["Blue", "Red", "Green", "Yellow"],
+        "correct": "Blue"
+    },
+    {
+        "text": "What’s your partner’s favorite holiday?",
+        "options": ["Christmas", "Halloween", "Thanksgiving", "New Year’s"],
+        "correct": "Christmas"
+    },
+    {
+        "text": "What’s your partner’s favorite book genre?",
+        "options": ["Fiction", "Non-Fiction", "Mystery", "Fantasy"],
+        "correct": "Mystery"
+    },
+    {
+        "text": "What’s your partner’s favorite sport to watch?",
+        "options": ["Soccer", "Basketball", "Tennis", "Cricket"],
+        "correct": "Soccer"
+    },
+    {
+        "text": "What’s your partner’s favorite breakfast food?",
+        "options": ["Pancakes", "Eggs", "Cereal", "Toast"],
+        "correct": "Pancakes"
+    },
+    {
+        "text": "What’s your partner’s favorite animal?",
+        "options": ["Dog", "Cat", "Bird", "Fish"],
+        "correct": "Dog"
+    },
+    {
+        "text": "What’s your partner’s favorite type of cuisine?",
+        "options": ["Italian", "Mexican", "Chinese", "Indian"],
+        "correct": "Italian"
+    },
+    {
+        "text": "What’s your partner’s favorite hobby?",
+        "options": ["Painting", "Photography", "Gardening", "Writing"],
+        "correct": "Photography"
+    },
+    {
+        "text": "What’s your partner’s favorite TV show genre?",
+        "options": ["Drama", "Comedy", "Reality", "Sci-Fi"],
+        "correct": "Comedy"
+    },
+    {
+        "text": "What’s your partner’s favorite way to exercise?",
+        "options": ["Running", "Yoga", "Weightlifting", "Cycling"],
+        "correct": "Yoga"
+    },
+    {
+        "text": "What’s your partner’s favorite childhood memory?",
+        "options": ["Family Vacation", "Birthday Party", "School Event", "Playing with Friends"],
+        "correct": "Family Vacation"
+    },
+    {
+        "text": "What’s your partner’s favorite board game?",
+        "options": ["Monopoly", "Scrabble", "Chess", "Catan"],
+        "correct": "Scrabble"
+    },
+    {
+        "text": "What’s your partner’s favorite gift you’ve given them?",
+        "options": ["Jewelry", "Book", "Gadget", "Handmade Item"],
+        "correct": "Book"
+    },
+    {
+        "text": "What’s your partner’s favorite flower?",
+        "options": ["Rose", "Tulip", "Sunflower", "Orchid"],
+        "correct": "Rose"
+    },
+    {
+        "text": "What’s your partner’s favorite scent?",
+        "options": ["Vanilla", "Lavender", "Citrus", "Sandalwood"],
+        "correct": "Lavender"
+    },
+    {
+        "text": "What’s your partner’s favorite weather?",
+        "options": ["Sunny", "Rainy", "Snowy", "Cloudy"],
+        "correct": "Sunny"
+    },
+    {
+        "text": "What’s your partner’s favorite drink?",
+        "options": ["Tea", "Coffee", "Soda", "Juice"],
+        "correct": "Tea"
+    },
+    {
+        "text": "What’s your partner’s favorite ice cream flavor?",
+        "options": ["Chocolate", "Vanilla", "Strawberry", "Mint"],
+        "correct": "Chocolate"
+    },
+    {
+        "text": "What’s your partner’s favorite time of day?",
+        "options": ["Morning", "Afternoon", "Evening", "Night"],
+        "correct": "Evening"
+    },
+    {
+        "text": "What’s your partner’s favorite fruit?",
+        "options": ["Apple", "Banana", "Strawberry", "Mango"],
+        "correct": "Mango"
+    },
+    {
+        "text": "What’s your partner’s favorite way to celebrate?",
+        "options": ["Party", "Quiet Dinner", "Trip", "Movie Night"],
+        "correct": "Quiet Dinner"
+    },
+    {
+        "text": "What’s your partner’s favorite clothing style?",
+        "options": ["Casual", "Formal", "Athleisure", "Bohemian"],
+        "correct": "Casual"
+    },
+    {
+        "text": "What’s your partner’s favorite app?",
+        "options": ["Instagram", "TikTok", "Netflix", "Spotify"],
+        "correct": "Spotify"
+    },
+    {
+        "text": "What’s your partner’s favorite way to relax?",
+        "options": ["Meditation", "Napping", "Music", "Bathing"],
+        "correct": "Music"
+    },
+    {
+        "text": "What’s your partner’s favorite pizza topping?",
+        "options": ["Pepperoni", "Cheese", "Veggies", "Pineapple"],
+        "correct": "Pepperoni"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a rainy day?",
+        "options": ["Reading", "Movies", "Cooking", "Gaming"],
+        "correct": "Movies"
+    },
+    {
+        "text": "What’s your partner’s favorite superpower wish?",
+        "options": ["Flying", "Invisibility", "Teleportation", "Mind Reading"],
+        "correct": "Teleportation"
+    },
+    {
+        "text": "What’s your partner’s favorite snack?",
+        "options": ["Chips", "Popcorn", "Candy", "Nuts"],
+        "correct": "Popcorn"
+    },
+    {
+        "text": "What’s your partner’s favorite way to stay warm?",
+        "options": ["Blanket", "Fireplace", "Hot Drink", "Sweater"],
+        "correct": "Blanket"
+    },
+    {
+        "text": "What’s your partner’s favorite outdoor activity?",
+        "options": ["Hiking", "Biking", "Picnicking", "Swimming"],
+        "correct": "Hiking"
+    },
+    {
+        "text": "What’s your partner’s favorite type of pet?",
+        "options": ["Dog", "Cat", "Bird", "Fish"],
+        "correct": "Dog"
+    },
+    {
+        "text": "What’s your partner’s favorite social media platform?",
+        "options": ["Instagram", "Twitter", "Facebook", "Pinterest"],
+        "correct": "Instagram"
+    },
+    {
+        "text": "What’s your partner’s favorite type of vacation?",
+        "options": ["Beach", "City", "Mountain", "Countryside"],
+        "correct": "Beach"
+    },
+    {
+        "text": "What’s your partner’s favorite way to start the day?",
+        "options": ["Coffee", "Exercise", "Music", "Meditation"],
+        "correct": "Coffee"
+    },
+    {
+        "text": "What’s your partner’s favorite type of shoe?",
+        "options": ["Sneakers", "Boots", "Sandals", "Heels"],
+        "correct": "Sneakers"
+    },
+    {
+        "text": "What’s your partner’s favorite festival?",
+        "options": ["Diwali", "Christmas", "Halloween", "Carnival"],
+        "correct": "Christmas"
+    },
+    {
+        "text": "What’s your partner’s favorite way to give gifts?",
+        "options": ["Surprise", "Wrapped", "Handmade", "Experience"],
+        "correct": "Surprise"
+    },
+    {
+        "text": "What’s your partner’s favorite type of jewelry?",
+        "options": ["Necklace", "Ring", "Bracelet", "Earrings"],
+        "correct": "Necklace"
+    },
+    {
+        "text": "What’s your partner’s favorite way to stay cool?",
+        "options": ["Fan", "AC", "Swimming", "Cold Drink"],
+        "correct": "AC"
+    },
+    {
+        "text": "What’s your partner’s favorite type of weather for a date?",
+        "options": ["Sunny", "Rainy", "Cool", "Warm"],
+        "correct": "Cool"
+    },
+    {
+        "text": "What’s your partner’s favorite way to end the day?",
+        "options": ["Reading", "TV", "Talking", "Music"],
+        "correct": "Talking"
+    },
+    {
+        "text": "What’s your partner’s favorite type of date?",
+        "options": ["Dinner", "Movie", "Adventure", "Walk"],
+        "correct": "Dinner"
+    },
+    {
+        "text": "What’s your partner’s favorite way to plan?",
+        "options": ["Spontaneous", "Detailed", "Shared", "Flexible"],
+        "correct": "Flexible"
+    },
+    {
+        "text": "What’s your partner’s favorite scent for a candle?",
+        "options": ["Vanilla", "Pine", "Lavender", "Ocean"],
+        "correct": "Lavender"
+    },
+    {
+        "text": "What’s your partner’s favorite type of art?",
+        "options": ["Painting", "Sculpture", "Photography", "Digital"],
+        "correct": "Photography"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a holiday?",
+        "options": ["Family", "Friends", "Travel", "Relaxing"],
+        "correct": "Family"
+    },
+    {
+        "text": "What’s your partner’s favorite type of music to dance to?",
+        "options": ["Pop", "Salsa", "Hip-Hop", "Ballad"],
+        "correct": "Salsa"
+    },
+    {
+        "text": "What’s your partner’s favorite way to learn?",
+        "options": ["Reading", "Videos", "Hands-On", "Classes"],
+        "correct": "Hands-On"
+    },
+    {
+        "text": "What’s your partner’s favorite type of movie night snack?",
+        "options": ["Popcorn", "Candy", "Nachos", "Pizza"],
+        "correct": "Popcorn"
+    },
+    {
+        "text": "What’s your partner’s favorite way to decorate?",
+        "options": ["Minimalist", "Cozy", "Modern", "Vintage"],
+        "correct": "Cozy"
+    },
+    {
+        "text": "What’s your partner’s favorite type of gift to receive?",
+        "options": ["Thoughtful", "Practical", "Luxury", "Experience"],
+        "correct": "Thoughtful"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a Sunday?",
+        "options": ["Relaxing", "Exploring", "Socializing", "Working"],
+        "correct": "Relaxing"
+    },
+    {
+        "text": "What’s your partner’s favorite type of restaurant?",
+        "options": ["Fine Dining", "Casual", "Food Truck", "Café"],
+        "correct": "Café"
+    },
+    {
+        "text": "What’s your partner’s favorite way to stay organized?",
+        "options": ["Planner", "App", "Notebook", "Memory"],
+        "correct": "App"
+    },
+    {
+        "text": "What’s your partner’s favorite type of adventure?",
+        "options": ["Road Trip", "Hiking", "City Tour", "Camping"],
+        "correct": "Road Trip"
+    },
+    {
+        "text": "What’s your partner’s favorite way to show love?",
+        "options": ["Words", "Acts", "Gifts", "Time"],
+        "correct": "Time"
+    },
+    {
+        "text": "What’s your partner’s favorite type of book to read?",
+        "options": ["Novel", "Biography", "Self-Help", "Poetry"],
+        "correct": "Novel"
+    },
+    {
+        "text": "What’s your partner’s favorite way to enjoy nature?",
+        "options": ["Beach", "Forest", "Mountain", "Park"],
+        "correct": "Beach"
+    },
+    {
+        "text": "What’s your partner’s favorite type of workout?",
+        "options": ["Cardio", "Strength", "Flexibility", "Team Sports"],
+        "correct": "Cardio"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a birthday?",
+        "options": ["Party", "Quiet Day", "Trip", "Surprise"],
+        "correct": "Surprise"
+    },
+    {
+        "text": "What’s your partner’s favorite type of bag?",
+        "options": ["Backpack", "Tote", "Crossbody", "Clutch"],
+        "correct": "Backpack"
+    },
+    {
+        "text": "What’s your partner’s favorite way to handle stress?",
+        "options": ["Talking", "Exercise", "Music", "Alone Time"],
+        "correct": "Music"
+    },
+    {
+        "text": "What’s your partner’s favorite type of cuisine to cook?",
+        "options": ["Italian", "Asian", "Mexican", "American"],
+        "correct": "Italian"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a long weekend?",
+        "options": ["Travel", "Home Projects", "Relaxing", "Socializing"],
+        "correct": "Travel"
+    },
+    {
+        "text": "What’s your partner’s favorite type of dessert to bake?",
+        "options": ["Cake", "Cookies", "Pie", "Brownies"],
+        "correct": "Cookies"
+    },
+    {
+        "text": "What’s your partner’s favorite way to stay connected?",
+        "options": ["Calls", "Texts", "Video Chats", "Letters"],
+        "correct": "Video Chats"
+    },
+    {
+        "text": "What’s your partner’s favorite type of movie to rewatch?",
+        "options": ["Classic", "Rom-Com", "Action", "Drama"],
+        "correct": "Rom-Com"
+    },
+    {
+        "text": "What’s your partner’s favorite way to explore a city?",
+        "options": ["Walking", "Tour Bus", "Biking", "Local Guide"],
+        "correct": "Walking"
+    },
+    {
+        "text": "What’s your partner’s favorite type of drink to order?",
+        "options": ["Cocktail", "Beer", "Wine", "Mocktail"],
+        "correct": "Wine"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a quiet evening?",
+        "options": ["Reading", "Cooking", "TV", "Games"],
+        "correct": "Reading"
+    },
+    {
+        "text": "What’s your partner’s favorite type of music festival?",
+        "options": ["Rock", "EDM", "Folk", "Jazz"],
+        "correct": "Folk"
+    },
+    {
+        "text": "What’s your partner’s favorite way to pamper themselves?",
+        "options": ["Spa Day", "Shopping", "Food", "Sleep"],
+        "correct": "Spa Day"
+    },
+    {
+        "text": "What’s your partner’s favorite type of weather for a walk?",
+        "options": ["Sunny", "Cool", "Misty", "Warm"],
+        "correct": "Cool"
+    },
+    {
+        "text": "What’s your partner’s favorite way to celebrate milestones?",
+        "options": ["Party", "Trip", "Gift", "Dinner"],
+        "correct": "Dinner"
+    },
+    {
+        "text": "What’s your partner’s favorite type of tea?",
+        "options": ["Green", "Black", "Herbal", "Chai"],
+        "correct": "Chai"
+    },
+    {
+        "text": "What’s your partner’s favorite way to enjoy a book?",
+        "options": ["Physical", "E-Book", "Audiobook", "Library"],
+        "correct": "Physical"
+    },
+    {
+        "text": "What’s your partner’s favorite type of workout music?",
+        "options": ["Pop", "Rock", "Hip-Hop", "Electronic"],
+        "correct": "Hip-Hop"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a snow day?",
+        "options": ["Sledding", "Movies", "Baking", "Building a Snowman"],
+        "correct": "Movies"
+    },
+    {
+        "text": "What’s your partner’s favorite type of hat?",
+        "options": ["Baseball Cap", "Beanie", "Sun Hat", "Fedora"],
+        "correct": "Beanie"
+    },
+    {
+        "text": "What’s your partner’s favorite way to enjoy a party?",
+        "options": ["Dancing", "Chatting", "Games", "Food"],
+        "correct": "Chatting"
+    },
+    {
+        "text": "What’s your partner’s favorite type of museum?",
+        "options": ["Art", "History", "Science", "Cultural"],
+        "correct": "Art"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a morning?",
+        "options": ["Sleeping In", "Breakfast", "Exercise", "Planning"],
+        "correct": "Breakfast"
+    },
+    {
+        "text": "What’s your partner’s favorite type of plant?",
+        "options": ["Succulent", "Fern", "Orchid", "Cactus"],
+        "correct": "Succulent"
+    },
+    {
+        "text": "What’s your partner’s favorite way to enjoy a concert?",
+        "options": ["Front Row", "Dancing", "Singing Along", "Chilling"],
+        "correct": "Singing Along"
+    },
+    {
+        "text": "What’s your partner’s favorite type of sandwich?",
+        "options": ["BLT", "Grilled Cheese", "Turkey", "Veggie"],
+        "correct": "Grilled Cheese"
+    },
+    {
+        "text": "What’s your partner’s favorite way to spend a summer day?",
+        "options": ["Beach", "Pool", "BBQ", "Hiking"],
+        "correct": "Beach"
+    },
+    {
+        "text": "What’s your partner’s favorite type of candy?",
+        "options": ["Chocolate", "Gummies", "Hard Candy", "Lollipops"],
+        "correct": "Chocolate"
+    },
+    {
+        "text": "What’s your partner’s favorite way to enjoy a road trip?",
+        "options": ["Music", "Snacks", "Scenery", "Games"],
+        "correct": "Scenery"
+    }
+]
