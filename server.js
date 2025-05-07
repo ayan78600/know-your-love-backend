@@ -7,7 +7,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: ['https://your-netlify-app.netlify.app', 'http://localhost:3000'], // Replace with your Netlify URL after deploying
+    origin: ['knowyourpartner.netlify.app', 'http://localhost:3000'], // Replace with your Netlify URL after deploying
     methods: ['GET', 'POST'],
   },
 });
